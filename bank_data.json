@@ -1,0 +1,29 @@
+{
+    "Jose": {
+        "name": "Jose",
+        "balance": 85.0,
+        "transactions": [
+            {
+                "amount": 100.0,
+                "type": "deposit",
+                "date": "2026-04-25 07:18:13"
+            },
+            {
+                "amount": 15.0,
+                "type": "withdraw",
+                "date": "2026-04-25 07:20:33"
+            }
+        ]
+    },
+    "Joe": {
+        "name": "Joe",
+        "balance": 200.0,
+        "transactions": [
+            {
+                "amount": 200.0,
+                "type": "deposit",
+                "date": "2026-04-25 07:23:59"
+            }
+        ]
+    }
+}
